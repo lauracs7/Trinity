@@ -1,0 +1,8 @@
+installation_folder: /home/bag1/opt/Trinity
+working_directory: /home/bag1/temp
+main_folder: GSE76939
+trinity: /home/bag1/opt/trinityrnaseq-Trinity-v2.8.4
+transdecoder: /home/bag1/opt/TransDecoder-TransDecoder-v5.5.0
+num_samples: 2
+acc_sample1: SRR3105594
+acc_sample2: SRR3105596
